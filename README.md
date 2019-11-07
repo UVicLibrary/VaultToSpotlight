@@ -17,7 +17,7 @@ This guide includes a glossary, which you can find [here](#glossary). If you're 
 
 ### Loading into Spotlight
 * [Pre-flight Checklist]()
-* [Non-image items]() (e.g. videos, PDFs)
+* [Non-image Items]() (e.g. videos, PDFs)
 * [Preserving Special Characters]()
 
 ## Glossary
