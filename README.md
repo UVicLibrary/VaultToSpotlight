@@ -18,12 +18,13 @@ This guide includes a glossary, which you can find [here](#glossary). If you're 
 
 ### Loading into Spotlight
 * [Preserving Special Characters]()
-* [Pre-flight Checklist]()
 * [Non-image Items]()
   * [Videos]()
   * [PDFs]()
+* [Pre-flight Checklist]()
 
-### Other Resources
+### Samples and Other Resources
+* [Samples List]()
 * [Glossary](#glossary)
 
 ## Glossary
