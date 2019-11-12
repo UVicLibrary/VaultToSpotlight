@@ -7,7 +7,6 @@ For our purposes, we will focus on uploading and exporting data in batches via C
 This guide includes a glossary, which you can find [here](#glossary). If you're looking for Vault-specific information, see the [Vault Wiki](https://github.com/UVicLibrary/Vault/wiki).
 
 ## Table of Contents
-* [Glossary](#glossary)
 
 ### Exporting from Vault and Preload
 * [Goal: Working towards a Spotlight CSV]()
@@ -22,6 +21,9 @@ This guide includes a glossary, which you can find [here](#glossary). If you're 
   * [PDFs]()
 * [Preserving Special Characters]()
 
+### Other Resources
+
 ## Glossary
+* [Glossary](#glossary)
 
 **CSV** stands for comma-separated values. CSVs (i.e. files ending in .csv) function like spreadsheets. Machines can read and manipulate CSVs much faster than you could in Excel for example, but this also means they are very picky about formatting, encoding, etc.
