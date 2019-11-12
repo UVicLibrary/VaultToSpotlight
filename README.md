@@ -24,7 +24,7 @@ This guide includes a glossary, which you can find [here](#glossary). If you're 
 * [Pre-flight Checklist]()
 
 ### Samples and Other Resources
-* [Samples List]()
+* [Samples]()
 * [Glossary](#glossary)
 
 ## Glossary
