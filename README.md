@@ -22,8 +22,8 @@ This guide includes a glossary, which you can find [here](#glossary). If you're 
 * [Preserving Special Characters]()
 
 ### Other Resources
+* [Glossary](#glossary)
 
 ## Glossary
-* [Glossary](#glossary)
 
 **CSV** stands for comma-separated values. CSVs (i.e. files ending in .csv) function like spreadsheets. Machines can read and manipulate CSVs much faster than you could in Excel for example, but this also means they are very picky about formatting, encoding, etc.
