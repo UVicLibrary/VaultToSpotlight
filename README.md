@@ -19,7 +19,7 @@ This guide includes a glossary, which you can find [here](#glossary). If you're 
 * [Pre-flight Checklist]()
 * [Non-image Items]()
   * [Videos]()
-  * [Pdfs]()
+  * [PDFs]()
 * [Preserving Special Characters]()
 
 ## Glossary
