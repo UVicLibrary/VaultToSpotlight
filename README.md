@@ -11,15 +11,17 @@ This guide includes a glossary, which you can find [here](#glossary). If you're 
 ### Exporting from Vault and Preload
 * [Goal: Working towards a Spotlight CSV]()
 * [Mapping Document]()
-* [The Location Field and Google Maps Block]()
+* [How Solr Indexes Metadata]()
+  * [Facet Fields]()
+  * [The Location Field and Google Maps Block]()
 * [Visibility Settings in Vault]()
 
 ### Loading into Spotlight
+* [Preserving Special Characters]()
 * [Pre-flight Checklist]()
 * [Non-image Items]()
   * [Videos]()
   * [PDFs]()
-* [Preserving Special Characters]()
 
 ### Other Resources
 * [Glossary](#glossary)
