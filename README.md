@@ -16,7 +16,7 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
   * [How Solr Indexes Metadata]()
   * [Facet Fields]()
   * [The Location Field and Google Maps Block]()
-* [Visibility Settings in Vault]()
+* [Visibility Settings]()
 * [Pre-flight Checklist]()
 
 ### For Developers
