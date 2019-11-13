@@ -8,7 +8,7 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 
 ## Table of Contents
 
-### Exporting from Vault and Preload
+### For General Users
 * [Goal: Working towards a Spotlight CSV]()
 * [Mapping Document]()
 * [Metadata Concerns]()
@@ -17,13 +17,14 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
   * [Facet Fields]()
   * [The Location Field and Google Maps Block]()
 * [Visibility Settings in Vault]()
+* [Pre-flight Checklist]()
 
-### Loading into Spotlight
+### For Developers
+* [Exporting from Vault]()
 * [Preserving Special Characters]()
 * [Non-image Items]()
   * [Videos]()
   * [PDFs]()
-* [Pre-flight Checklist]()
 
 ### Samples and Other Resources
 * [Samples]()
