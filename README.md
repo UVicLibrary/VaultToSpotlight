@@ -25,6 +25,7 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 * [Web Storage and Non-image Items]()
   * [Videos]()
   * [PDFs]()
+* [Compound Objects]()
 * [Visibility Settings in Vault]()
 
 ### Samples and Other Resources
