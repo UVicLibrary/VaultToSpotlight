@@ -31,5 +31,5 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 
 ## Glossary
 
-#### CSV
+#### CSV(s)
 CSV stands for comma-separated values. CSVs (i.e. files ending in .csv) function like spreadsheets. Machines can read and manipulate CSVs much faster than you could in Excel for example, but this also means they are very picky about formatting, encoding, etc.
