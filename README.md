@@ -22,7 +22,7 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 ### For Developers
 * [Exporting from Vault]()
 * [Preserving Special Characters]()
-* [Non-image Items]()
+* [Web Storage and Non-image Items]()
   * [Videos]()
   * [PDFs]()
 
