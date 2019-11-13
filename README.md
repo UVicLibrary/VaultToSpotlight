@@ -28,6 +28,7 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 ### Samples and Other Resources
 * [Samples]()
 * [Glossary](#glossary)
+* [Troubleshooting]()
 
 ## Glossary
 
