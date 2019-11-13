@@ -11,7 +11,9 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 ### Exporting from Vault and Preload
 * [Goal: Working towards a Spotlight CSV]()
 * [Mapping Document]()
-* [How Solr Indexes Metadata]()
+* [Metadata Concerns]()
+  * [Regularization]()
+  * [How Solr Indexes Metadata]()
   * [Facet Fields]()
   * [The Location Field and Google Maps Block]()
 * [Visibility Settings in Vault]()
