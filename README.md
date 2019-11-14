@@ -12,7 +12,7 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 * [Goal: Working towards a Spotlight CSV]()
 * [Mapping Document]()
 * [Metadata Concerns]()
-  * [Why You Should Regularize Metadata]()
+  * [Why Regularize Metadata?]()
   * [How Solr Indexes Metadata]()
   * [Facet Fields]()
   * [The Location Field and Google Maps Block]()
