@@ -21,12 +21,12 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 
 ### For Developers
 * [Exporting from Vault]()
+* [Visibility Settings (in Vault)]()
 * [Preserving Special Characters]()
 * [Web Storage and Non-image Items]()
   * [Videos]()
   * [PDFs]()
 * [Compound Objects]()
-* [Visibility Settings in Vault]()
 
 ### Samples and Other Resources
 * [Samples]()
