@@ -9,7 +9,7 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 ## Table of Contents
 
 ### For General Users
-* [Goal: Working towards a Spotlight CSV]()
+* [Goal: Working Towards a Spotlight CSV]()
 * [Mapping Document]()
 * [Metadata Concerns]()
   * [Why Regularize Metadata?]()
