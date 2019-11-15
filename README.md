@@ -1,6 +1,6 @@
 # Vault to Spotlight
 
-This manual describes the process of migrating data from Vault to Spotlight. Vault is our software repository for storing and preserving digital objects in our collections. [Spotlight](https://exhibits.library.uvic.ca/) is our digital exhibit platform, where we curate, highlight, and create a narrative for specific groups of objects.
+This manual describes the process of migrating data from Vault to Spotlight. Vault is our software repository for storing and preserving digital artifacts in our collections. [Spotlight](https://exhibits.library.uvic.ca/) is our digital exhibit platform, where we curate, highlight, and create a narrative for specific groups of objects.
 
 For our purposes, we will focus on uploading and exporting data in batches via [CSVs](#csv), although both Vault and Spotlight support uploading items individually.
 
@@ -28,7 +28,7 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
   * [PDFs]()
 * [Compound Objects]()
 
-### Samples and Other Resources
+### Other Resources
 * [Samples]()
 * [Glossary](#glossary)
 * [Troubleshooting]()
