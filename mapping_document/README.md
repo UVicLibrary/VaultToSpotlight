@@ -27,13 +27,16 @@ The following 3 screenshots demonstrate
   2. the same metadata defined in a mapping document
   3. the finished product in Spotlight (after upload)
 
-<a href="https://iaff.library.uvic.ca/concern/iaff_works/e5f0a67c-d547-4d54-8a1e-b7e942254f3d"><img src="vault_metadata_example.png" alt="example metadata in Vault with fields creator, subject, publisher, identifier, keyword" width="80%" /></a>
+<a href="https://iaff.library.uvic.ca/concern/iaff_works/e5f0a67c-d547-4d54-8a1e-b7e942254f3d"><img src="vault_metadata_example.png" alt="example metadata in Vault with fields creator, subject, publisher, identifier, keyword" width="80%" /></a>  
+
 *Note the fields Creator, Subject, Publisher, Identifier, and Keyword*
 
-<img src="mapping_doc_filled_example.png" alt="a sample of a completed mapping document with the fields listed above" width="80%"/>
+<img src="mapping_doc_filled_example.png" alt="a sample of a completed mapping document with the fields listed above" width="80%"/>  
+
 *In our mapping document, we map Creator to spotlight_upload_Creator_tesim, Subject to spotlight_upload_dc_Subjects_ftesim, etc.*
 
-<a href="https://exhibits.library.uvic.ca/spotlight/iaff/catalog/17-16736"><img src="spotlight_metadata_example.png" alt="the final result in Spotlight for the fields listed above" width="80%" /></a>
+<a href="https://exhibits.library.uvic.ca/spotlight/iaff/catalog/17-16736"><img src="spotlight_metadata_example.png" alt="the final result in Spotlight for the fields listed above" width="80%" /></a>  
+
 *The final result after transforming the Vault metadata to Spotlight metadata*
 
 ## Special Considerations
