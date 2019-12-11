@@ -1,13 +1,13 @@
 # Mapping Document
 
 ## Section Headings
-  1. [Examples](#examples)
-  2. [Special Considerations](#special-considerations)
-    * [The url Field](#the-url-field)
-    * [Unused Fields](#unused-fields)
-    * [Facet Fields](#facet-fields-ftesi-ftesim-suffix)
-    * [Location Fields](#location-fields)
-    * [Unused Fields](#unused-fields)
+1. [Examples](#examples)
+2. [Special Considerations](#special-considerations)
+  1.  [The url Field](#the-url-field)
+  2. [Unused Fields](#unused-fields)
+  3. [Facet Fields](#facet-fields-ftesi-ftesim-suffix)
+  4. [Location Fields](#location-fields)
+  5. [Unused Fields](#unused-fields)
 
 A mapping or crosswalk document is a spreadsheet that lists each metadata field in Vault and its corresponding field in Spotlight. At minimum, it has 3 columns: one for Vault fields (a human-readable label); one for Spotlight fields (the name of the field indexed by Spotlight's backend); and one for general notes.
 
@@ -27,15 +27,15 @@ The following 3 screenshots demonstrate
   2. the same metadata defined in a mapping document
   3. the finished product in Spotlight (after upload)
 
-<a href="https://iaff.library.uvic.ca/concern/iaff_works/e5f0a67c-d547-4d54-8a1e-b7e942254f3d"><kbd><img src="vault_metadata_example.png" alt="example metadata in Vault with fields creator, subject, publisher, identifier, keyword" height="80%" style="padding: .25rem; border: 1px solid #dee2e6;" /></kbd></a>  
+<a href="https://iaff.library.uvic.ca/concern/iaff_works/e5f0a67c-d547-4d54-8a1e-b7e942254f3d"><kbd><img src="vault_metadata_example.png" alt="example metadata in Vault with fields creator, subject, publisher, identifier, keyword"/></kbd></a>  
 
 *Note the fields Creator, Subject, Publisher, Identifier, and Keyword*
 
-<kbd><img src="mapping_doc_filled_example.png" alt="a sample of a completed mapping document with the fields listed above" height="80%" style="padding: .25rem; border: 1px solid #dee2e6;"/></kbd>  
+<kbd><img src="mapping_doc_filled_example.png" alt="a sample of a completed mapping document with the fields listed above" /></kbd>  
 
 *In our mapping document, we map Creator to spotlight_upload_Creator_tesim, Subject to spotlight_upload_dc_Subjects_ftesim, etc.*
 
-<a href="https://exhibits.library.uvic.ca/spotlight/iaff/catalog/17-16736"><kbd><img src="spotlight_metadata_example.png" alt="the final result in Spotlight for the fields listed above" height="80%" style="padding:.25rem; border: 1px solid #dee2e6;" /></kbd></a>  
+<a href="https://exhibits.library.uvic.ca/spotlight/iaff/catalog/17-16736"><kbd><img src="spotlight_metadata_example.png" alt="the final result in Spotlight for the fields listed above"/></kbd></a>  
 
 *The final result after transforming the Vault metadata to Spotlight metadata*
 
