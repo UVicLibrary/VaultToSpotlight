@@ -3,17 +3,17 @@
 ## Section Headings
   1. [Examples](#examples)
   2. [Special Considerations](#special-considerations)
-    a. [The url Field](#the-url-field)
-    b. [Unused Fields](#unused-fields)
-    c. [Facet Fields](#facet-fields-ftesi-ftesim-suffix)
-    d. [Location Fields](#location-fields)
-    e. [Unused Fields](#unused-fields)
+    * [The url Field](#the-url-field)
+    * [Unused Fields](#unused-fields)
+    * [Facet Fields](#facet-fields-ftesi-ftesim-suffix)
+    * [Location Fields](#location-fields)
+    * [Unused Fields](#unused-fields)
 
 A mapping or crosswalk document is a spreadsheet that lists each metadata field in Vault and its corresponding field in Spotlight. At minimum, it has 3 columns: one for Vault fields (a human-readable label); one for Spotlight fields (the name of the field indexed by Spotlight's backend); and one for general notes.
 
 The purpose of a mapping document is to explicitly define which field in Vault should match a field in Spotlight, since this relationship is not immediately obvious to the computer or your friendly neighbourhood Spotlight developer. As the subject-matter expert in your collection's materials, *only you* (with some help) can map out this relationship so that no important information is lost. As a general rule, it's best to be as unambiguous as possible, even if that requires some extra notes.
 
-To download a blank template, see [blank_mapping_doc_template.xslx](blank_mapping_doc_template.xslx)(Excel spreadsheet). This template includes links to relevant examples of each metadata field in Spotlight (you can leave this in if you wish or delete it).
+To download a blank template, see [blank_mapping_doc_template.xslx](blank_mapping_doc_template.xslx) (Excel spreadsheet). This template includes links to relevant examples of each metadata field in Spotlight (you can leave this in if you wish or delete it).
 
 To see an example of a completed template, see [Vault_to_SpotlightMapping.xslx](Vault_to_SpotlightMapping.xslx).
 
@@ -27,13 +27,13 @@ The following 3 screenshots demonstrate
   2. the same metadata defined in a mapping document
   3. the finished product in Spotlight (after upload)
 
-<a href="https://iaff.library.uvic.ca/concern/iaff_works/e5f0a67c-d547-4d54-8a1e-b7e942254f3d"><img src="vault_metadata_example.png" alt="example metadata in Vault with fields creator, subject, publisher, identifier, keyword" /></a>
+<a href="https://iaff.library.uvic.ca/concern/iaff_works/e5f0a67c-d547-4d54-8a1e-b7e942254f3d"><img src="vault_metadata_example.png" alt="example metadata in Vault with fields creator, subject, publisher, identifier, keyword" width="80%" /></a>
 *Note the fields Creator, Subject, Publisher, Identifier, and Keyword*
 
-<img src="mapping_doc_filled_example" alt="a sample of a completed mapping document with the fields listed above" />
+<img src="mapping_doc_filled_example.png" alt="a sample of a completed mapping document with the fields listed above" width="80%"/>
 *In our mapping document, we map Creator to spotlight_upload_Creator_tesim, Subject to spotlight_upload_dc_Subjects_ftesim, etc.*
 
-<a href="https://exhibits.library.uvic.ca/spotlight/iaff/catalog/17-16736"><img src="spotlight_metadata_example.png" alt="the final result in Spotlight for the fields listed above" /></a>
+<a href="https://exhibits.library.uvic.ca/spotlight/iaff/catalog/17-16736"><img src="spotlight_metadata_example.png" alt="the final result in Spotlight for the fields listed above" width="80%" /></a>
 *The final result after transforming the Vault metadata to Spotlight metadata*
 
 ## Special Considerations
@@ -58,7 +58,8 @@ Sometimes a field in Vault has no corollary in Spotlight, or a field is not impo
 
 There are 3 fields that we use to mark spatial location: spotlight_upload_dc_Coverage-Spatial_Location_ftesim, spotlight_upload_Coverage-Temporal_tesim, and spotlight_upload_dc_box_tesim. Depending on your collection, you can have any combination of used/unused fields.
 
-A typical use case is as follows:
+A typical use case is as follows:  
+
 | 1. spotlight_upload_dc_Coverage-Spatial_Location_tesim | 2. spotlight_dc_Coverage-Spatial_Location_ftesim | 3. spotlight_upload_dc_box_tesim |
 | --------------------------------------------------- | --------------------------------------------- | ----------------------------- |
 | A [controlled vocabulary term](../glossary/README.md) for a location and, optionally, geographic coordinates. | A duplicate of column 1. | The geographic coordinates of the location described in columns 1 & 2. |

@@ -24,7 +24,7 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 * [Visibility Settings (in Vault)]()
 * [Preserving Special Characters]()
 * [Web Storage]()
-* Non-image Items]()
+* [Non-image Items]()
   * [Videos]()
   * [PDFs]()
 * [Compound Objects]()
