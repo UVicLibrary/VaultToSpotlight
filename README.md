@@ -1,6 +1,6 @@
 # Vault to Spotlight
 
-This manual describes the process of migrating data from Vault to Spotlight. Vault is our software repository for storing and preserving digital artifacts in our collections. [Spotlight](https://exhibits.library.uvic.ca/) is our digital exhibit platform, where we curate, highlight, and create a narrative for specific groups of objects.
+This manual describes the process of migrating data from Vault to Spotlight. [Vault](https://vault.library.uvic.ca) is our software repository for storing and preserving digital artifacts in our collections. [Spotlight](https://exhibits.library.uvic.ca/) is our digital exhibit platform, where we curate, highlight, and create a narrative for specific groups of objects.
 
 For our purposes, we will focus on uploading and exporting data in batches via [CSVs](#csv), although both Vault and Spotlight support uploading items individually.
 
@@ -10,12 +10,12 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 
 ### For General Users
 * [Goal: Working Towards a Spotlight CSV]()
-* [Mapping Document]()
 * [Metadata Concerns]()
   * [Why Regularize Metadata?]()
   * [How Solr Indexes Metadata]()
   * [Facet Fields]()
   * [The Coordinates Field and Google Maps Block]()
+* [Mapping Document](mapping_document/README.md)
 * [Visibility Settings]()
 * [Pre-flight Checklist]()
 
@@ -23,21 +23,13 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 * [Exporting from Vault]()
 * [Visibility Settings (in Vault)]()
 * [Preserving Special Characters]()
-* [Web Storage and Non-image Items]()
+* [Web Storage]()
+* Non-image Items]()
   * [Videos]()
   * [PDFs]()
 * [Compound Objects]()
 
 ### Other Resources
 * [Samples]()
-* [Glossary](#glossary)
+* [Glossary](glossary/README.md#glossary)
 * [Troubleshooting]()
-
-## Glossary
-
-#### CSV(s)
-CSV stands for comma-separated values. CSVs (i.e. files ending in .csv) function like spreadsheets. Machines can read and manipulate CSVs much faster than you could in Excel, but this also means they are very picky about formatting, encoding, etc. In a CSV, the start and end of each "cell" is denoted by a comma or line break.
-
-#### Solr
-
-#### Hyku
