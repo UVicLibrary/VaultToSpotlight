@@ -3,11 +3,11 @@
 ## Section Headings
 1. [Examples](#examples)
 2. [Special Considerations](#special-considerations)
-  1.  [The url Field](#the-url-field)
-  2. [Unused Fields](#unused-fields)
-  3. [Facet Fields](#facet-fields-ftesi-ftesim-suffix)
-  4. [Location Fields](#location-fields)
-  5. [Unused Fields](#unused-fields)
+  * [The url Field](#the-url-field)
+  * [Unused Fields](#unused-fields)
+  * [Facet Fields](#facet-fields-ftesi-ftesim-suffix)
+  * [Location Fields](#location-fields)
+  * [Unused Fields](#unused-fields)
 
 A mapping or crosswalk document is a spreadsheet that lists each metadata field in Vault and its corresponding field in Spotlight. At minimum, it has 3 columns: one for Vault fields (a human-readable label); one for Spotlight fields (the name of the field indexed by Spotlight's backend); and one for general notes.
 
