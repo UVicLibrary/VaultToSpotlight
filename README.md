@@ -10,7 +10,7 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 
 ### For General Users
 * [Goal: Working Towards a Spotlight CSV]()
-* [Metadata Concerns]()
+* [Metadata Spreadsheet]()
   * [Why Regularize Metadata?]()
   * [How Solr Indexes Metadata]()
   * [Facet Fields]()

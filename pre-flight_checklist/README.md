@@ -1,1 +1,13 @@
-Under construction.
+Before sending that email, please make sure you attach or link to the following files/spreadsheets
+- [] **thumb drive** with all digital objects, or one **Q:Drive folder** (in Shared or Digitization) that contains all objects and the following documents
+- [] In Vault, the [**visibility**](../visibility_settings/README.md) of all your items **must be set to public**
+- [] A [**metadata spreadsheet**](../metadata_spreadsheet/README.md) containing the actual metadata to be imported
+  - [] For each row under the url heading, there is a unique file path and name for every object (see [instructions](../metadata_spreadsheet/README.md#the-url-column))
+  - [] All geographic coordinates are listed in ... format. Here is a conversion tool for ...:
+- [] A [**mapping document**](../mapping_document/README.md)
+  - [] Each metadata field in Vault has a corresponding Spotlight field unless...
+  - [] you have a list of Vault metadata fields that you *do not* want to include (please list them in the mapping document)
+- [] In your email, please indicate
+  - [] if there are special characters or diacritics that don't appear in English
+  - [] if there are non-image items such as PDFs or videos and where they are stored in the drive (ideally in separate folders by file type)
+  - [] if you have [compound objects](../metadata_spreadsheet/README.md#compound-objects) (since these need to be transferred manually) and where they are stored in the drive (ideally in a separate folder)
