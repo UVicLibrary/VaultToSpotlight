@@ -10,4 +10,4 @@ Before sending that email, please make sure you attach or link to the following 
 - &#9744; In your email, please indicate
   - &#9744; if there are special characters or diacritics that don't appear in English
   - &#9744; if there are non-image items such as PDFs or videos and where they are stored in the drive (ideally in separate folders by file type)
-  - &#9744; if you have [compound objects](../metadata_spreadsheet/README.md#compound-objects) (since these need to be transferred manually) and where they are stored in the drive (ideally in a separate folder)
+  - &#9744; if you have [compound objects](../metadata_spreadsheet/README.md#compound-objects) and where they are stored in the drive (ideally in a separate folder)

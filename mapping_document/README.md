@@ -1,8 +1,9 @@
 # Mapping Document
 
 ## Section Headings
-1. [Examples](#examples)
-2. [Special Considerations](#special-considerations)
+1. [How to Use](#how-to-use)
+2. [Examples](#examples)
+3. [Special Considerations](#special-considerations)
    * [The url Field](#the-url-field)
    * [Unused Fields](#unused-fields)
    * [Facet Fields](#facet-fields-ftesi-ftesim-suffix)
@@ -18,6 +19,11 @@ To download a blank template, see [blank_mapping_doc_template.xslx](blank_mappin
 To see an example of a completed template, see [Vault_to_SpotlightMapping.xslx](Vault_to_SpotlightMapping.xslx).
 
 A mapping document is required in the [Pre-flight Checklist](../pre-flight_checklist/README.md).
+
+## How to Use
+
+ 1. Download a template by clicking [here](https://github.com/UVicLibrary/VaultToSpotlight/blob/master/mapping_document/blank_mapping_doc_template.xlsx) (or on mapping_doc_template.xslx above) and click the Download button. Then open the file in Microsoft Excel.
+ 2. Notice the first two columns, "Fields from Vault or user document" and "Spotlight fields". The template comes with two rows pre-filled: Title and Description.
 
 ## Examples
 
