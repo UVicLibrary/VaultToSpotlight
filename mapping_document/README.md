@@ -1,6 +1,6 @@
 # Mapping Document
 
-## Section Headings
+## Contents
 1. [How to Use](#how-to-use)
 2. [Examples](#examples)
 3. [Special Considerations](#special-considerations)
@@ -12,9 +12,9 @@
 
 A mapping or crosswalk document is a spreadsheet that lists each metadata field in Vault and its corresponding field in Spotlight. At minimum, it has 3 columns: one for Vault fields (the label); one for Spotlight fields (the name of the field indexed by Spotlight's backend); and one for general notes.
 
-Spotlight stores and indexes data differently than Vault. The purpose of a mapping document is to explicitly define which field in Vault should match a field in Spotlight, since this relationship is not immediately obvious to a computer (or sometimes to a Spotlight developer). As the subject-matter expert in your collection's materials, *only you* (with some help) can map out this relationship so that no important information is lost. As a general rule, it's best to be as unambiguous as possible, even if that requires some extra notes.
+Spotlight stores and indexes data differently than Vault. The purpose of a mapping document is to explicitly define which field in Vault should match a field in Spotlight, since this relationship is not immediately obvious to a computer or, sometimes, to a Spotlight developer). As the subject-matter expert in your collection's materials, *only you* (with some help) can map out this relationship so that no important information is lost. As a general rule, it's best to be as unambiguous as possible.
 
-To download a blank template, see [blank_mapping_doc_template.xslx](blank_mapping_doc_template.xslx) (Excel spreadsheet). This template includes links to relevant examples of each metadata field in Spotlight (you can leave this in if you wish or delete it).
+To download a blank template, see [blank_mapping_doc_template.xslx](blank_mapping_doc_template.xslx) (Excel spreadsheet). This template includes links to relevant examples of each metadata field in Spotlight (you can leave these in if you wish or delete them).
 
 To see an example of a completed template, see [Vault_to_SpotlightMapping.xslx](Vault_to_SpotlightMapping.xslx).
 
@@ -28,19 +28,17 @@ A mapping document is required in the [Pre-flight Checklist](../pre-flight_check
 
 2. The template may look overwhelming at first but the overall concept is simple. The first two columns act like the legend of a map. In a map legend, there is a symbol on the left and a translation of it on the right. Both refer to the same entity.  
 
-  A mapping document is similar: the left column is how Vault represents this metadata while the right column is how Spotlight represents the same data. For Vault, we use the human-readable label. For Spotlight, we use a "back-end" representation stored in [Solr](../glossary/README.md#solr). To read more about how Solr stores metadata, see [here](../user_document/README.md#how-solr-indexes-metadata).
+   A mapping document is similar: the left column is how Vault represents this metadata while the right column is how Spotlight represents the same data. For Vault, we use the human-readable label. For Spotlight, we use a "back-end" representation stored in [Solr](../glossary/README.md#solr). To read more about how Solr stores metadata, see [here](../user_document/README.md#how-solr-indexes-metadata).
 
 <kbd>![example map and legend depicting the Juan de Fuca trail](map_legend.jpg)</kbd>  
 
 <kbd>![screenshot of the first 2 columns and 3 rows in the mapping document template](first_three_rows.png)</kbd>  
 
-  When a developer exports data from Vault, they run a piece of code (called a script) that transforms data labelled in Vault as column 1 (e.g. Title) into data labelled in Spotlight as column 2 (e.g. full_title_tesim).
+*When a developer exports data from Vault, they run a piece of code (called a script) that transforms data labelled in Vault as column 1 (e.g. Title) into data labelled in Spotlight as column 2 (e.g. full_title_tesim).*
 
 3. Make a list of all fields in your metadata in Vault and then match each one to the corresponding field in Spotlight, using column 3 ("Displays in Spotlight as...") as a guide for what you want the final product to be. If you're unsure if something matches, refer to the examples in column 4 ("Example of Spotlight field") to see how a term's been used in previous exhibits.  
 
-  Some fields require special attention. See ["Special Considerations"](#special-considerations) for more.
-
-  There will most likely be some fields in Spotlight that you don't need or want to use. In that case, leave the cell blank under "Fields from Vault or user document." Please make sure *every field in Vault that you want to appear in Spotlight is included*. Fields not listed in the user document or left blank will not transfer.
+   Some fields require special attention. See ["Special Considerations"](#special-considerations) for more and how to deal with [unused fields](#unused-fields).
 
 ## Examples
 
@@ -72,13 +70,9 @@ This field comes pre-filled and you don't need to change it. It tells Spotlight 
 
 Suffixes such as "ftesi" or "ftesim" indicate facet fields (e.g. spotlight_upload_dc_Date-Created_Searchable_ftesi, spotlight_upload_dc_Type_Genre_ftesim). See the [User Document](../user_document/README.md#facet-fields) section for more information on how this is indexed in Spotlight and what the final result looks like.
 
-### Annotation Fields
-
-The annotation fields (Spotlight only) are any fields with "annotation" in the name (spotlight_annotation_x_dbsm,spotlight_annotation_y_dbsm, etc.). These are marked N/A and you don't need to change them. They are reserved in the Spotlight database to store the locations of optional annotations in the item viewer.
-
 ### Unused Fields
 
-Sometimes a field in Vault has no corollary in Spotlight, or a field is not important enough to your data set for you to fill it in. If that's the case, simply write "not used" or something to that effect (as opposed to leaving it blank, which could mean you didn't see it). This field will be ignored in the upload process. You can always edit metadata after it's been uploaded.
+There will most likely be some fields in Spotlight that you don't need or want to use. In that case, leave the cell blank under "Fields from Vault or user document." Please make sure *every field in Vault that you want to appear in Spotlight is included*. Fields not listed in the user document or left blank will not transfer.
 
 ### Location Fields
 
