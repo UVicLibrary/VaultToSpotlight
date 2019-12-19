@@ -38,7 +38,7 @@ A mapping document is required in the [Pre-flight Checklist](../pre-flight_check
 
 3. Make a list of all fields in your metadata in Vault and then match each one to the corresponding field in Spotlight, using column 3 ("Displays in Spotlight as...") as a guide for what you want the final product to be. If you're unsure if something matches, refer to the examples in column 4 ("Example of Spotlight field") to see how a term's been used in previous exhibits.  
 
-   Some fields require special attention. See ["Special Considerations"](#special-considerations) for more and how to deal with [unused fields](#unused-fields).
+   Some fields require special attention. See ["Special Considerations"](#special-considerations) for more and how to deal with [unused fields](#unused-fields). You can always edit metadata after it has been loaded into Spotlight.
 
 ## Examples
 
