@@ -1,13 +1,32 @@
-Before sending that email, please make sure you attach or link to the following files/spreadsheets
-- &#9744; **thumb drive** with all digital objects, or one **Q:Drive folder** (in Shared or Digitization) that contains all objects and the following documents
-- &#9744; In Vault, the [**visibility**](../visibility_settings/README.md) of all your items **must be set to public**
-- &#9744; A [**metadata spreadsheet**](../metadata_spreadsheet/README.md) containing the actual metadata to be imported
-  - &#9744; For each row under the url heading, there is a unique file path and name for every object (see [instructions](../metadata_spreadsheet/README.md#the-url-column))
-  - &#9744; All geographic coordinates are listed in ... format. Here is a conversion tool for ...:
-- &#9744; A [**mapping document**](../mapping_document/README.md)
-  - &#9744; Each metadata field in Vault has a corresponding Spotlight field unless...
-  - &#9744; you have a list of Vault metadata fields that you *do not* want to include (please list them in the mapping document)
-- &#9744; In your email, please indicate
-  - &#9744; if there are special characters or diacritics that don't appear in English
-  - &#9744; if there are non-image items such as PDFs or videos and where they are stored in the drive (ideally in separate folders by file type)
-  - &#9744; if you have [compound objects](../metadata_spreadsheet/README.md#compound-objects) and where they are stored in the drive (ideally in a separate folder)
+# Spotlight Batch Upload: Pre-flight Checklist
+This checklist is also available as [a PDF](pre-flight_checklist_2019-12-19.pdf). It was last updated on Dec. 19, 2019.
+
+
+**Loading from Vault**
+1.	Settings in Vault  
+    ☐ The visibility of all your items is set to public  
+    ☐ Geographic coordinates are in decimal degrees (e.g. 8.142462, -2.381817). Here is a conversion tool for different coordinate formats.
+2.	A mapping document (see instructions)  
+    ☐ Each metadata field in Vault has a corresponding Spotlight field or  
+    ☐ Vault fields that don’t transfer to Spotlight say “N/A” or are left blank under the “Spotlight” column
+3.	An email or note that says if:  
+    ☐ There are special characters or diacritics that don't appear in English (e.g. à, ŋ, Chinese characters)  
+    ☐ there are non-image items such as PDFs or videos  
+    ☐ you have compound objects
+
+**Loading into Spotlight directly**
+1.	A thumb drive or Q:Drive folder that contains all objects  
+    ☐ No spaces in file names/paths
+2.	A user document describing your objects (i.e. metadata). Please ensure:  
+    ☐ Each row under the url heading contains a unique file name and/or path (see instructions)  
+    ☐ There are no spaces in file names/paths under “url”  
+    ☐ Geographic coordinates are in decimal degrees (e.g. 8.142462,
+-2.381817). Here is a conversion tool for different coordinate formats.  
+    ☐ Terms in facet fields are separated by semicolons
+3. A mapping document  
+  ☐ Each metadata field in the user document has a corresponding Spotlight field or  
+  ☐ User fields that don’t transfer to Spotlight (e.g. misc. notes to self) say “N/A” or are left blank under the “Spotlight” column  
+4. An email or note that says if:  
+  ☐ there are special characters or diacritics that don't appear in English (e.g. à, ŋ, Chinese characters)  
+  ☐ there are non-image items such as PDFs or videos  
+  ☐ you have compound objects
