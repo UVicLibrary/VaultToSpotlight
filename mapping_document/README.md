@@ -8,15 +8,12 @@
    * [Unused Fields](#unused-fields)
    * [Facet Fields](#facet-fields-ftesi-ftesim-suffix)
    * [Location Fields](#location-fields)
-   * [Unused Fields](#unused-fields)
 
 A mapping or crosswalk document is a spreadsheet that lists each metadata field in Vault and its corresponding field in Spotlight. At minimum, it has 3 columns: one for Vault fields (the label); one for Spotlight fields (the name of the field indexed by Spotlight's backend); and one for general notes.
 
 Spotlight stores and indexes data differently than Vault. The purpose of a mapping document is to explicitly define which field in Vault should match a field in Spotlight, since this relationship is not immediately obvious to a computer or, sometimes, to a Spotlight developer). As the subject-matter expert in your collection's materials, *only you* (with some help) can map out this relationship so that no important information is lost. As a general rule, it's best to be as unambiguous as possible.
 
-To download a blank template, see [blank_mapping_doc_template.xslx](blank_mapping_doc_template.xslx) (Excel spreadsheet). This template includes links to relevant examples of each metadata field in Spotlight (you can leave these in if you wish or delete them).
-
-To see an example of a completed template, see [Vault_to_SpotlightMapping.xslx](Vault_to_SpotlightMapping.xslx).
+To download a blank template, see [blank_mapping_doc_template.xslx](blank_mapping_doc_template.xslx) (Excel spreadsheet). This template includes links to relevant examples of each metadata field in Spotlight. This template lists *all possible* fields in Spotlight, some of which you won't need (see [unused fields](#unused-fields)).
 
 A mapping document is required in the [Pre-flight Checklist](../pre-flight_checklist/README.md).
 
@@ -72,7 +69,9 @@ Suffixes such as "ftesi" or "ftesim" indicate facet fields (e.g. spotlight_uploa
 
 ### Unused Fields
 
-There will most likely be some fields in Spotlight that you don't need or want to use. In that case, leave the cell blank under "Fields from Vault or user document." Please make sure *every field in Vault that you want to appear in Spotlight is included*. Fields not listed in the user document or left blank will not transfer.
+There will most likely be some fields in Spotlight that you don't need or want to use or Vault fields that don't map to anything in Spotlight. In that case, omit it (i.e. leave the cell blank under "Fields from Vault or user document") or write "N/A".
+
+Because of this, please make sure *every field in Vault that you want to appear in Spotlight is included*. Fields not listed won't transfer.
 
 ### Location Fields
 
