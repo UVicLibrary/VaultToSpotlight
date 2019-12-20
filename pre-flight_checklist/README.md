@@ -10,7 +10,7 @@ This checklist is also available as [a PDF](pre-flight_checklist_2019-12-19.pdf)
     ☐ Each metadata field in Vault has a corresponding Spotlight field or  
     ☐ Vault fields that don’t transfer to Spotlight say “N/A” or are left blank in the “Vault” column
 3.	An email or note that says if:  
-    ☐ There are special characters or diacritics that don't appear in English (e.g. à, ŋ, Chinese characters)  
+    ☐ There are special characters or diacritics that don't appear in English (e.g. à, ŋ, 餃子)  
     ☐ there are non-image items such as PDFs or videos  
     ☐ you have [compound objects](https://exhibits.library.uvic.ca/spotlight/tutorials/feature/compound-objects)
 
@@ -27,6 +27,6 @@ This checklist is also available as [a PDF](pre-flight_checklist_2019-12-19.pdf)
   ☐ Each metadata field in the user document has a corresponding Spotlight field or  
   ☐ User fields that don’t transfer to Spotlight (e.g. misc. notes to self) say “N/A” or are left blank in the “Vault” column  
 4. An email or note that says if:  
-  ☐ there are special characters or diacritics that don't appear in English (e.g. à, ŋ, Chinese characters)  
+  ☐ there are special characters or diacritics that don't appear in English (e.g. à, ŋ, 餃子)  
   ☐ there are non-image items such as PDFs or videos  
   ☐ you have [compound objects](https://exhibits.library.uvic.ca/spotlight/tutorials/feature/compound-objects)
