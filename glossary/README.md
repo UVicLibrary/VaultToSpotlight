@@ -9,7 +9,8 @@
 #### CSV
 CSV stands for comma-separated values. CSVs (i.e. files ending in .csv) function like spreadsheets. Machines can read and manipulate CSVs much faster than you could in Excel, but this also means they are very picky about formatting, encoding, etc. In a CSV, the start and end of each "cell" is denoted by a comma or line break.
 
-#### Facets (or facet fields)
+#### Facets (also: facet fields, filter fields)
+Facet fields are metadata fields that allow users to filter out certain results from a search. See [facet fields](../facet_fields) for more information.
 
 #### ftesim, ftesi
 
