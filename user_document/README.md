@@ -4,6 +4,6 @@ The user document is a spreadsheet that contains metadata for your collection an
 
 To see a sample user document, [click here]() or on sample.xslx above.
 
-<span style="display: inline-block; float: left;"><< [Home/Welcome](../README.md)</span>
-<span style="text-align: center">[Table of Contents](../README.md#table-of-contents)</span>
-<span style="display: inline-block; float: right;">[Mapping Document](../mapping_document ) >></span>
+<span style="display: inline-block; float: left; width:33%;"><< Previous: [Home/Welcome](../README.md)</span>
+<span style="display: inline-block; text-align: center; width:33%;">[Table of Contents](../README.md#table-of-contents)</span>
+<span style="display: inline-block; float: right; width:33%; text-align: right;">Next: [Mapping Document](../mapping_document ) >></span>
