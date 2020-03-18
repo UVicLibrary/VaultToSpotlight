@@ -10,18 +10,17 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 
 ### For General Users
 * [Goal: Working Towards a Spotlight CSV]()
-* [User Document](user_document/README.md)
+* [User Document](user_document)
   * [Why Regularize Metadata?]()
   * [How Solr Indexes Metadata]()
   * [Facet Fields]()
   * [The Coordinates Field and Google Maps Block]()
 * [Mapping Document](mapping_document/README.md)
-* [Visibility Settings]()
+* [Visibility Settings](visibility_settings/README.md)
 * [Pre-flight Checklist](pre-flight_checklist/README.md)
 
 ### For Developers
 * [Exporting from Vault]()
-* [Visibility Settings (in Vault)]()
 * [Preserving Special Characters]()
 * [Web Storage]()
 * [Non-image Items]()
