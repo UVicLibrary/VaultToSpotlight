@@ -10,6 +10,6 @@ You can set visibility individually, item-by-item, or for an entire collection. 
 
 When you're finished making items public, check the other items in the pre-flight checklist.
 
-<span style="float: left;"><< [Mapping Document](../mapping_document )</span>
-<span style="text-align: center">[Table of Contents](../README.md#table-of-contents)</span>
-<span style="float: right;">[Pre-flight Checklist](../pre-flight_checklist) >></span>
+<span style="display: block; float: left;"><< [Mapping Document](../mapping_document )</span>
+<span style="margin-left: auto; margin-right: auto; text-align: center;">[Table of Contents](../README.md#table-of-contents)</span>
+<span style="display: block; float: right;">[Pre-flight Checklist](../pre-flight_checklist) >></span>
