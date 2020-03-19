@@ -86,3 +86,7 @@ A typical use case is as follows:
 You can see an example of this in the [African Futures exhibit](https://exhibits.library.uvic.ca/spotlight/iaff) if you go to an exhibit item page such as [this one](https://exhibits.library.uvic.ca/spotlight/iaff/catalog/17-16738) pictured below.
 
 ![Example metadata with highlighted fields, spotlight_upload_dc_Coverage-Spatial_Location_tesim, spotlight_dc_Coverage-Spatial_Location_ftesim, spotlight_upload_dc_box_tesim ](example_location_fields.png)
+
+<< Previous: [The Coordinates Field and Google Maps Block](../coordinates_field)  |
+[Table of Contents](../README.md#table-of-contents)  |
+Next: [Visibility Settings](../visibility_settings) >>

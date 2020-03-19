@@ -9,9 +9,9 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 ## Table of Contents
 
 ### For General Users
-* [Goal: Working Towards a Spotlight CSV]()
+* [Goal: Working Towards a Spotlight CSV](goal)
 * [User Document](user_document)
-  * [Why Regularize Metadata?]()
+  * [Why Regularize Metadata?](why_regularize_metadata)
   * [How Spotlight Indexes Metadata](how_solr_indexes_metadata)
   * [Facet Fields](facet_fields)
   * [The Coordinates Field and Google Maps Block](coordinates_field)
@@ -21,7 +21,7 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 
 ### For Developers
 * [Developer Cheatsheets](other_resources/README.md#developer-cheatsheets)
-* [Exporting from Vault]()
+* [Exporting from Vault](for_developers/exporting_from_vault.md)
 * [Visibility Settings](visibility_settings)
 * [Preserving Special Characters]()
 * [Web Storage]()
