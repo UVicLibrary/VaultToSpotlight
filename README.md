@@ -12,10 +12,11 @@ If you're looking for Vault-specific information, see the [Vault Wiki](https://g
 * [Goal: Working Towards a Spotlight CSV](goal)
 * [User Document](user_document)
   * [Why Regularize Metadata?](why_regularize_metadata)
-  * [How Spotlight Indexes Metadata](how_solr_indexes_metadata)
   * [Facet Fields](facet_fields)
   * [The Coordinates Field and Google Maps Block](coordinates_field)
 * [Mapping Document](mapping_document)
+* [The URL column](the_url_column)
+* [How Spotlight Indexes Metadata](how_solr_indexes_metadata)
 * [Visibility Settings](visibility_settings)
 * [Pre-flight Checklist](pre-flight_checklist)
 

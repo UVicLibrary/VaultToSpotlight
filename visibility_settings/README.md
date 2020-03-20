@@ -6,7 +6,7 @@ Before uploading items into Spotlight, you need to set the visibility of all ite
 
 <kbd>!["Unauthorized" placeholder image](unauthorized.png)</kbd>
 
-You can set visibility individually, item-by-item, or for an entire collection. To learn more about visibility settings in Vault, see the [Vault wiki page](https://github.com/UVicLibrary/Vault/wiki/Visibility-and-Permissions).
+You can set visibility individually, item-by-item, or for an entire collection. To learn how to make a collection public or learn more about visibility settings in Vault, see the [Vault wiki page](https://github.com/UVicLibrary/Vault/wiki/Visibility-and-Permissions).
 
 When you're finished making items public, check the other items in the pre-flight checklist.
 
