@@ -6,6 +6,8 @@ For our purposes, we will focus on uploading and exporting data in batches via [
 
 If you're looking for Vault-specific information, see the [Vault Wiki](https://github.com/UVicLibrary/Vault/wiki). If you want to report a problem with Spotlight, please do so on the [Issues page](https://github.com/UVicLibrary/Spotlight2_custom/issues).
 
+Start here: [Goal: Working Towards a Spotlight CSV](goal)
+
 ## Table of Contents
 
 ### For General Users

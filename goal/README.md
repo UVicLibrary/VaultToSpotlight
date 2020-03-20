@@ -22,3 +22,5 @@ Next: [Mapping Document](../mapping_document) >>
 
 Uploading directly into Spotlight
 Next: [User Document](../user_document) >>
+
+Go back to [Table of Contents](../README.md#table-of-contents)
