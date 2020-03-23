@@ -8,4 +8,4 @@ To see a sample user document, [click here]() or on sample.xslx above.
 
 << Previous: [Goal: Working Towards a Spotlight CSV](../goal)  |
 [Table of Contents](../README.md#table-of-contents)  |
-Next: [Mapping Document](../mapping_document ) >>
+Next: [Why Regularize Metadata?](why_regularize_metdata.md) >>
