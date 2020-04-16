@@ -6,6 +6,8 @@ Cheatsheet for Spotlight: https://github.com/UVicLibrary/Spotlight2_custom/wiki/
 
 Cheatsheet for Vault: https://github.com/UVicLibrary/Vault/wiki/Developer-Cheatsheet
 
+## Glossary
+
 ## Samples
 Here is a list of all sample files:
 

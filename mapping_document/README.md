@@ -4,7 +4,7 @@
 1. [How to Use](#how-to-use)
 2. [Examples](#examples)
 3. [Special Considerations](#special-considerations)
-   * [The url Field](#the-url-field)
+   * [The URL Field](#the-url-field)
    * [Unused Fields](#unused-fields)
    * [Facet Fields](#facet-fields-ftesi-ftesim-suffix)
    * [Location Fields](#location-fields)
@@ -59,9 +59,9 @@ The following 3 screenshots demonstrate
 
 ## Special Considerations
 
-### The url Field
+### The URL Field
 
-This field comes pre-filled and you don't need to change it. It tells Spotlight which digital object matches which metadata (specifically, it provides a unique file path to the object).
+See [this page](../url_column).
 
 ### Facet Fields (-ftesi, -ftesim suffix)
 

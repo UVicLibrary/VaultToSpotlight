@@ -18,6 +18,8 @@ Facet fields are metadata fields that allow users to filter out certain results 
 
 #### Hyrax
 
+#### (IIIF) Manifest
+
 #### Mapping or crosswalk document
 A mapping or crosswalk document is a spreadsheet that lists each metadata field in Vault and its corresponding field in Spotlight. See [the mapping document page](mapping_document/README.md) for more info.
 
@@ -25,6 +27,8 @@ A mapping or crosswalk document is a spreadsheet that lists each metadata field 
 [Solr](https://lucene.apache.org/solr/) is the software that indexes metdata for both Vault and Spotlight. See [How Solr Indexes Metadata](../how_solr_indexes_metadata) for more.
 
 #### Tenant
+
+#### Q: Drive
 
 #### User collection
 
