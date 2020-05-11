@@ -8,6 +8,8 @@ Cheatsheet for Vault: https://github.com/UVicLibrary/Vault/wiki/Developer-Cheats
 
 ## Glossary
 
+[Click here](../glossary).
+
 ## Samples
 Here is a list of all sample files:
 
